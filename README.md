@@ -10,10 +10,17 @@
 
 ### 💎 Platinas
 
-<img src="assets/enigma_do_medo.jpg" alt="Enigma Do Medo" width="20" height="20" /> Platinei Enigma Do Medo
+<img src="assets/enigma_do_medo.jpg" alt="Enigma Do Medo" width="30" height="30" /> Platinei Enigma Do Medo
 
-<img src="assets/carrion.jpg" alt="Carrion" width="20" height="20" /> Platinei Carrion
+<img src="assets/carrion.jpg" alt="Carrion" width="30" height="30" /> Platinei Carrion
 
+<img src="assets/hollow_knight.jpg" alt="Hollow Knigt" width="30" height="30" /> "Platinei" Hollow Knight (Falta o Panteão)
+
+<img src="assets/silksong.jpeg" alt="Hollow Knight Silksong" width="30" height="30" /> "Platinei" Holllow Knight Silksong (Falta o Boss Final Verdadeiro)
+
+<img src="assets/dreadge.jpg" alt="Dreadge" width="30" height="30" /> "Platinei" Dreadge (Falta algumas coisas)
+
+<img src="assets/dave_the_diver.jpg" alt="Hollow Knight Silksong" width="30" height="30" /> Platinarei Dave The Diver (Irei Platinar)
 
   
 ---
