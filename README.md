@@ -1,4 +1,5 @@
-## Aprendendo Programação e percebendo que a REALIDADE É BRUTAL!
+# Aprendendo Programação e percebendo que a REALIDADE É BRUTAL!
+## Eder Jessé Tomelin
 
 ---
 
@@ -18,10 +19,11 @@
 
 <img src="assets/silksong.png" alt="Hollow Knight Silksong" width="30" height="30" /> "Platinei" Holllow Knight Silksong (Falta o Boss Final Verdadeiro)
 
-<img src="assets/dreadge.png" alt="Dreadge" width="30" height="30" /> "Platinei" Dreadge (Falta algumas coisas)
+<img src="assets/dreadge.png" alt="Dreadge" width="30" height="30" /> "Platinei" Dreadge (Falta algumas coisas demoradas)
 
 <img src="assets/dave_the_diver.png" alt="Hollow Knight Silksong" width="30" height="30" /> Platinarei Dave The Diver (Irei Platinar)
 
+<img src="assets/darkest_dungeon.png" alt="Darkest Dungeon" width="30" height="30" /> Platinarei Darkest Dungeon (Irei Platinar)
   
 ---
 
