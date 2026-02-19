@@ -10,7 +10,7 @@
 
 ### 💎 Platinas
 
-<img src="assets/enigma_do_medo.png" alt="Enigma Do Medo" width="50" height="50" /> Platinei Enigma Do Medo
+<img src="assets/enigma_do_medo.png" alt="Enigma Do Medo" width="30" height="30" /> Platinei Enigma Do Medo
 
 <img src="assets/carrion.png" alt="Carrion" width="30" height="30" /> Platinei Carrion
 
