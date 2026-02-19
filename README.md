@@ -30,7 +30,7 @@
 
 ---
 
-### ⚡ Back-end/Frameworks
+### ⚡ Back-end / Frameworks
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 
 ---
