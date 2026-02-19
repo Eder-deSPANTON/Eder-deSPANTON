@@ -1,4 +1,4 @@
-## Aprendendo Programação e percebendo a REALIDADE É BRUTAL!
+## Aprendendo Programação e percebendo que a REALIDADE É BRUTAL!
 
 ---
 
