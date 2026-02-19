@@ -1,5 +1,11 @@
-## Hi there 👋
+## Aprendendo Programação e percebendo a REALIDADE!
+---
+# 
 
+
+
+
+![Spanton](https://i.redd.it/f17gs0iiltqe1.gif)
 <!--
 **Eder-deSPANTON/Eder-deSPANTON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
