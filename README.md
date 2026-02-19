@@ -13,6 +13,8 @@
 <img src="assets/enigma_do_medo.jpg" alt="Enigma Do Medo" width="20" height="20" /> Platinei Enigma Do Medo
 
 <img src="assets/carrion.jpg" alt="Carrion" width="20" height="20" /> Platinei Carrion
+
+
   
 ---
 
