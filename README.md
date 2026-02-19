@@ -30,18 +30,34 @@
 
 ---
 
-### ⚡ Frameworks
+### ⚡ Back-end/Frameworks
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 
 ---
 
-### 🛠️ Tecnologias
+### 🎨 Front-end
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+
+---
+
+### 📁 Banco de Dados
+![MySQL](https://img.shields.io/badge/mysql-%234479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+### 🛠️ Ferramentas 
+![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat&logo=apache&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 🔗 Plataformas / APIs
 ![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)
 
-
+---
 
 <img align="center" height="200" width="200" src="https://i.redd.it/f17gs0iiltqe1.gif">
 
